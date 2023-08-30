@@ -24,7 +24,7 @@ Welcome to the Hangman game! Test out your word-guessing skills with this game. 
 *The game will keep track of your wins and losses. Feel free to play as many rounds as you like and challenge yourself to improve your guessing skills!*
 
 ## Try It Online
-If you prefer not to download anything, you can also play Hangman online using Replit. Click on the following link: Play Hangman on [Replit](https://replit.com/@rahmanar/Day-7-Hangman-5-Start?v=1)https://replit.com/@rahmanar/Day-7-Hangman-5-Start?v=1
+If you prefer not to download anything, you can also play Hangman online using Replit. Click on the following link: Play Hangman on [Replit](https://replit.com/@rahmanar/Day-7-Hangman-5-Start?v=1)
 
 ## Acknowledgments
 The original code for this Hangman game was inspired by this udemy course - [100 Days of code Python bootcamp](https://www.udemy.com/course/100-days-of-code/). You can find the original code and play the game online here on [Replit](https://replit.com/@rahmanar/Day-7-Hangman-5-Start?v=1). Feel free to fork the code and customize it to your liking. Enjoy guessing those words!
